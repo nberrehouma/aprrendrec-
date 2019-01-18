@@ -11,6 +11,7 @@ class Cellule
 	
 class List {
 private:
+	cellPtr head;
 
 
 
